@@ -31,6 +31,9 @@ class _DashboardState extends State<Dashboard> {
           CircleAvatar(
             backgroundImage: NetworkImage(
                 "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-520-girl-avatar-image_1153283.jpg"),
+          ),
+          SizedBox(
+            width: 20,
           )
         ],
       ),
