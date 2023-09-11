@@ -1,4 +1,3 @@
-import 'dart:html';
 import 'package:donation/screeens/payment.dart';
 import 'package:readmore/readmore.dart';
 import 'package:flutter/material.dart';
